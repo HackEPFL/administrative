@@ -50,7 +50,7 @@ L’assemblée générale élit chaque fois pour la durée d’un exercice annue
 
 ## Article 9 : Signature
 
-L’association est valablement engagée par la signature du président et/ou d’un autre membre du co- mité.
+L’association est valablement engagée par la signature du président et/ou d’un autre membre du comité.
 ￼￼
 ## Article 10 : Ressources
 
