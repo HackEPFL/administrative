@@ -48,27 +48,27 @@ Le comité dirige et administre les affaires courantes de l’association et la 
 
 L’assemblée générale élit chaque fois pour la durée d’un exercice annuel deux vérificateurs des comptes qui ne sont pas nécessairement membres de l’association. Ils examinent les comptes annuels et la tenue des registres de l’association.
 
-### Article 9 : Signature
+## Article 9 : Signature
 
 L’association est valablement engagée par la signature du président et/ou d’un autre membre du co- mité.
 ￼￼
-### Article 10 : Ressources
+## Article 10 : Ressources
 
 Les ressources de l’association sont principalement issues de partenariats et sponsoring.
 
-### Article 11 : Responsabilité
+## Article 11 : Responsabilité
 
 La fortune de l’association répond seule des engagements de l’association. Par conséquent, aucun membre ne peut être tenu responsable, à titre individuel, d’éventuelles pertes de l’association.Toute responsabilité personnelle des membres est limitée au paiement de la cotisation annuelle.
 
-### Article 12 : Modification des statuts
+## Article 12 : Modification des statuts
 
 La modification des statuts ne peut avoir lieu que sur décision d’une assemblée générale avec une majorité des 2/3 des voix. Pour autant que cette dernière figure à l’ordre du jour.
 
-### Article 13 : Dissolution
+## Article 13 : Dissolution
 
 La dissolution de l’association ne peut être décidée que sur demande du comité ou de la moitié des membres ayant le droit de vote, lors d’une assemblée générale extraordinaire convoquée spécialement à cet effet. La décision de la dissolution exige l’approbation des 2/3 des voix.
 
 En cas de dissolution, l’assemblée générale extraordinaire se prononce sur l’utilisation de la fortune de l’association dans l’esprit du but de l’association.
 
-### Article 14 : Dispositions transitoires
+## Article 14 : Dispositions transitoires
 Les statuts ont été adoptés par l’assemblée générale constitutive le XXXX et entrent en vigueur immédiatement.
