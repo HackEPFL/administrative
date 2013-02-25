@@ -14,7 +14,7 @@
 <sup>1</sup>La durée de l’Association est indéterminée.
 
 #### Art. 4 But
-<sup>1</sup>Le but de l’Association est de promouvoir l’intérêt et les compétences en programmation et en algorithmique au sein de l’EPFL, notamment en organisant des concours internes, en préparant les étudiants de l’EPFL à la participation aux concours de programmation internationaux et en organisant les voyages vers les lieux de compétition où les membres de l’Association représenteront l’EPFL.  
+<sup>1</sup>les activités de création technique et artistique à des activités sociales et pédagogiques, notamment en organisant des ateliers, conférences et marathons de programmation.  
 <sup>2</sup>L’Association n’a pas de but économique. Elle n’est liée à aucune autre association, à aucun mouvement politique, ni à aucune confession religieuse.  
 
 ## II. Membres de l’Association
@@ -42,7 +42,7 @@ c) s’il ne se soumet pas aux décisions de l’assemblée générale ou du com
 <sup>4</sup>Le membre exclu peut recourir par écrit auprès de l’assemblée générale contre la décision d’exclusion dans un délai de trente jours dès sa notification.  
 
 #### Art. 8 Effets de la perte de qualité de membre ou de l’exclusion
-<sup>1</sup>Les membres démissionnaires ou exclus n’ont aucun droit à l’avoir social.   Les cotisations de l'année comptable en cours restent dues à l'Association.  
+<sup>1</sup>Les membres démissionnaires ou exclus n’ont aucun droit à l’avoir social.  
 <sup>2</sup>Les membres démissionnaires ou exclus ont la responsabilité, au moment de leur départ, de transmettre à leur successeur, le cas échéant au comité de direction, les documents et dossiers relatifs à la fonction qu'ils assumaient au sein de l'Association.  
 
 
@@ -69,17 +69,15 @@ b) approbation des rapports d'activités des comités d'organisation;
 c) approbation du bilan et des comptes annuels de l'Association, accompagnés du préavis de l'organe de contrôle des comptes;  
 d) approbation des programmes d'activité du comité de direction et des comités d'organisation pour l'exercice comptable suivant;  
 e) approbation du budget proposé par le comité de direction pour l'exercice comptable suivant notamment concernant l'utilisation des fonds de l'Association ainsi que le montant des dépenses extrabudgétaires;  
-f) décisions relatives au montant de la cotisation annuelle;  
-g) élection/révocation du président, du vice-président, du trésorier et le cas échéant des autres membres de son comité de direction;  
-h) élection et révocation de l'organe de contrôle des comptes;  
-i) élection et révocation de l'organe de sélection;  
-j) création/suppression de comités d’organisation pour des manifestations annuelles et désignation de leurs membres;  
-k) élection et révocation du (des) coach(s) responsable(s) pour
-l'entrainement et l'accompagnement des équipes au(x) concours externe(s);  
-l) adoption et modification des statuts conformément à la majorité de l'article 26;  
-m) adoption et modification des règlements internes de l'Association présentés par le comité de direction;  
-n) décisions sur recours en matière d'exclusion de membres;  
-o) dissolution de l'Association conformément au quorum et à la majorité de l'article 27.  
+f) élection/révocation du président, du vice-président, du trésorier et le cas échéant des autres membres de son comité de direction;  
+g) élection et révocation de l'organe de contrôle des comptes;  
+h) élection et révocation de l'organe de sélection;  
+i) création/suppression de comités d’organisation pour des manifestations annuelles et désignation de leurs membres;  
+j) élection et révocation du (des) coach(s) responsable(s) pour l'entrainement et l'accompagnement des équipes au(x) concours externe(s);  
+k) adoption et modification des statuts conformément à la majorité de l'article 26;  
+l) adoption et modification des règlements internes de l'Association présentés par le comité de direction;  
+m) décisions sur recours en matière d'exclusion de membres;  
+n) dissolution de l'Association conformément au quorum et à la majorité de l'article 27.  
 <sup>2</sup>L’assemblée générale se prononce également sur les autres points préalablement portés à l’ordre du jour.
 
 #### Art. 12 Convocation et réunion
@@ -105,7 +103,7 @@ o) dissolution de l'Association conformément au quorum et à la majorité de l'
 
 #### Art. 15 Composition et organisation
 <sup>1</sup>Le comité de direction est l’organe exécutif de l’Association. Il est composé
-de 3 à 5 membres. Le comité de direction est dirigé par un président
+de 3 membres. Le comité de direction est dirigé par un président
 (président de l'Association). Il comprend en outre un vice-président et un
 trésorier. Au moins la moitié des membres du comité de direction doit avoir
 été membre de l'Association lors de l'année d’activité précédente. De plus,
@@ -127,8 +125,7 @@ l’Association perd simultanément sa fonction au sein du comité.
 #### Art. 16 Compétences
 <sup>1</sup>Les compétences du comité de direction sont notamment les suivantes:
 a) gestion des affaires courantes et administration de l’Association conformément à son but et aux décisions de l’assemblée générale;  
-b) tenue à jour de la comptabilité et des pièces comptables de
-l’Association;  
+b) tenue à jour de la comptabilité et des pièces comptables de l’Association;  
 c) établissement du bilan et des comptes annuels;  
 d) gestion des fonds de l’Association;  
 e) convocation et préparation des assemblées générales;  
@@ -142,7 +139,7 @@ j) représentation de l'Association envers les tiers;
 
 #### Art. 17 Convocation et réunion
 <sup>1</sup>Le comité de direction se réunit aussi souvent que nécessaire sur convocation du président ou à la demande du tiers de ses membres.  
-<sup>2</sup>Le comité de direction ne peut valablement délibérer qu’en la présence de la majorité de ses membres. Un membre peut toutefois se faire représenter par un autre membre du comité administratif moyennant une procuration signée.
+<sup>2</sup>Le comité de direction ne peut valablement délibérer qu’en la présence de la majorité de ses membres. Un membre peut toutefois se faire représenter par un autre membre du comité administratif moyennant une procuration signée.  
 <sup>3</sup>Les décisions du comité de direction sont prises à la majorité des membres présents. Elles sont en principe consignées dans un procès-verbal signé par son rédacteur et le président du comité. Les originaux des procès-verbaux sont conservés par le comité de direction. Une copie est à disposition des membres de l'Association dans ses locaux.
 
 #### Art. 18 Comités d'organisation
@@ -160,7 +157,7 @@ j) représentation de l'Association envers les tiers;
 ### d) Organe de contrôle
 
 #### Art. 20 Composition et fonction
-<sup>1</sup>L’organe de contrôle est nommé par l’assemblée générale pour une durée d’un an. Il est rééligible. Il se compose de trois membres de l’Association, dont un suppléant, à l’exclusion des membres du comité de direction.
+<sup>1</sup>L’organe de contrôle est nommé par l’assemblée générale pour une durée d’un an. Il est rééligible. Il se compose de trois membres de l’Association, dont un suppléant, à l’exclusion des membres du comité de direction.  
 <sup>2</sup>L’organe de contrôle vérifie, à la fin de chaque exercice annuel, le bilan et les comptes établis par le comité de direction. Il exprime un préavis à l’intention de l’assemblée générale.  
 <sup>3</sup>L’organe de contrôle peut demander toutes pièces justificatives au comité de direction. S’il l’estime nécessaire, il peut solliciter la convocation d’une assemblée générale extraordinaire.
 
@@ -168,17 +165,14 @@ j) représentation de l'Association envers les tiers;
 
 #### Art. 21 Ressources
 <sup>1</sup>Les ressources de l’Association proviennent:  
-a) des cotisations annuelles des membres, arrêtées par l’assemblée
-générale;  
+a) du sponsoring;  
 b) du produit de la ou des manifestations organisées par l’Association;  
 c) du produit de toute vente ou location réalisée par l’Association;  
-d) du sponsoring;  
-e) de toutes autres sources de revenus.
+d) de toutes autres sources de revenus.
 
 #### Art. 22 Responsabilité financière
-<sup>1</sup>La responsabilité personnelle des membres est limitée au paiement de la cotisation annuelle, l’Association répondant de ses engagements exclusivement sur son avoir social.  
-<sup>2</sup>Les membres n’ont aucun droit sur l’avoir social, les actifs de l’Association étant sa propriété exclusive.  
-<sup>3</sup>L’Association ne peut être engagée financièrement que par une signature double du président et du trésorier.
+<sup>1</sup>Les membres n’ont aucun droit sur l’avoir social, les actifs de l’Association étant sa propriété exclusive.  
+<sup>2</sup>L’Association ne peut être engagée financièrement que par une signature double du président et du trésorier.
 
 #### Art. 23 Comptabilité
 <sup>1</sup>La comptabilité de l’Association est tenue à jour par le comité de direction. Les pièces comptables et autres justificatifs sont conservés. L’exercice comptable correspond à l’année académique (du 1er mars au 28 février).
