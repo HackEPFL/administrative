@@ -84,22 +84,22 @@ n) dissolution de l'Association conformément au quorum et à la majorité de l'
 <sup>1</sup>L’assemblée générale ordinaire se réunit au moins une fois par an et ce impérativement dans les 3 mois qui suivent la clôture de l'exercice comptable.  
 <sup>2</sup>Une assemblée générale extraordinaire est convoquée chaque fois que le comité de direction ou l’organe de contrôle des comptes le jugent nécessaire ou lorsque le cinquième des membres en fait la demande écrite et signée au comité de direction.  
 <sup>3</sup>Les assemblées générales (ordinaires ou extraordinaires) sont convoquées par le comité de direction, par envoi aux membres et affichage, au moins trente jours avant la date de l’assemblée.  
-<sup>4</sup>L’envoi et l’affichage mentionnent l’ordre du jour, la date, le lieu et l’heure de l’assemblée, ainsi que l’indication du lieu où les documents faisant l’objet des décisions à prendre peuvent être consultés.
-<sup>5</sup>Les propositions individuelles de points à porter à l’ordre du jour doivent en principe parvenir par écrit au comité de direction au moins quinze jours avant la date de l’assemblée générale. L’affichage et la documentation à disposition doivent être complétés en conséquence.
+<sup>4</sup>L’envoi et l’affichage mentionnent l’ordre du jour, la date, le lieu et l’heure de l’assemblée, ainsi que l’indication du lieu où les documents faisant l’objet des décisions à prendre peuvent être consultés.  
+<sup>5</sup>Les propositions individuelles de points à porter à l’ordre du jour doivent en principe parvenir par écrit au comité de direction au moins quinze jours avant la date de l’assemblée générale. L’affichage et la documentation à disposition doivent être complétés en conséquence.  
 
 #### Art. 13 Déroulement de l’assemblée générale
-<sup>1</sup>Aucune décision ne peut être prise en dehors des points mentionnés à l’ordre du jour.
-<sup>2</sup>L’assemblée générale est dirigée par le président du comité de direction ou, à défaut, par un membre du comité auquel il aura délégué cette compétence. 
-<sup>3</sup>Il est tenu un procès-verbal de chaque réunion de l’assemblée générale, dans lequel les décisions sont consignées. Ce procès-verbal doit être signé par son rédacteur, ainsi que par le président du comité ou son remplaçant. Il est à disposition des membres de l'Association pour consultation.
+<sup>1</sup>Aucune décision ne peut être prise en dehors des points mentionnés à l’ordre du jour.  
+<sup>2</sup>L’assemblée générale est dirigée par le président du comité de direction ou, à défaut, par un membre du comité auquel il aura délégué cette compétence.  
+<sup>3</sup>Il est tenu un procès-verbal de chaque réunion de l’assemblée générale, dans lequel les décisions sont consignées. Ce procès-verbal doit être signé par son rédacteur, ainsi que par le président du comité ou son remplaçant. Il est à disposition des membres de l'Association pour consultation.  
 
 ### b) Comité de direction
 
 #### Art. 14 Droit de vote, majorités et quorum
-<sup>1</sup>Tous les membres réunis à l’assemblée générale ont un droit de vote égal.
-<sup>2</sup>Les votations et les élections ont lieu à main levée, à moins qu’un cinquième des membres présents ou représentés ne demande le vote à bulletin secret.
-<sup>3</sup>En cas de vote à bulletin secret, l’assemblée générale désigne trois membres, non-membres du comité de direction, chargés de dépouiller les bulletins de vote. Les bulletins nuls ne sont pas pris en considération.
-<sup>4</sup>Les décisions de l’assemblée générale sont prises à la majorité relative des membres présents ou représentés, sauf décisions concernant l’adoption ou la modification des statuts (art. 26), ainsi que la dissolution de l’Association (art. 27).
-<sup>5</sup>En cas d’égalité lors d’un vote au sein de l’assemblée générale, la voix du président de l’Association, ou s’il est absent, celle du vice-président, est prépondérante.
+<sup>1</sup>Tous les membres réunis à l’assemblée générale ont un droit de vote égal.  
+<sup>2</sup>Les votations et les élections ont lieu à main levée, à moins qu’un cinquième des membres présents ou représentés ne demande le vote à bulletin secret.  
+<sup>3</sup>En cas de vote à bulletin secret, l’assemblée générale désigne trois membres, non-membres du comité de direction, chargés de dépouiller les bulletins de vote. Les bulletins nuls ne sont pas pris en considération.  
+<sup>4</sup>Les décisions de l’assemblée générale sont prises à la majorité relative des membres présents ou représentés, sauf décisions concernant l’adoption ou la modification des statuts (art. 26), ainsi que la dissolution de l’Association (art. 27).  
+<sup>5</sup>En cas d’égalité lors d’un vote au sein de l’assemblée générale, la voix du président de l’Association, ou s’il est absent, celle du vice-président, est prépondérante.  
 
 #### Art. 15 Composition et organisation
 <sup>1</sup>Le comité de direction est l’organe exécutif de l’Association. Il est composé
