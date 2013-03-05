@@ -1,5 +1,5 @@
 # Administrative
 
-All the legal and financial stuff.
+You'll find here our [statutes](https://github.com/HackEPFL/administrative/blob/master/statutes.md), [goals](https://github.com/HackEPFL/administrative/blob/master/goals.md) and [addendum](https://github.com/HackEPFL/administrative/blob/master/addendum.md).
 
-For now there's only [our statutes](https://github.com/HackEPFL/administrative/blob/master/statutes.md), comments and pull requests welcome!
+Ccomments and pull requests welcome!
