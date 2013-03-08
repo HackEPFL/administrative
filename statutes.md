@@ -14,7 +14,7 @@
 <sup>1</sup>La durée de l’Association est indéterminée.
 
 #### Art. 4 But
-<sup>1</sup>les activités de création technique et artistique à des activités sociales et pédagogiques, notamment en organisant des ateliers, conférences et marathons de programmation.  
+<sup>1</sup>Promouvoir les activités de création technique et artistique à des activités sociales et pédagogiques, notamment en organisant des ateliers, conférences et marathons de programmation.  
 <sup>2</sup>L’Association n’a pas de but économique. Elle n’est liée à aucune autre association, à aucun mouvement politique, ni à aucune confession religieuse.  
 
 ## II. Membres de l’Association
