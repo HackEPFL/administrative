@@ -14,9 +14,12 @@
 <sup>1</sup>La durée de l’Association est indéterminée.
 
 #### Art. 4 But
-<sup>1</sup>L’Association vise à promouvoir la culture du “hacking”, notamment en organisant des ateliers, conférences et marathons de programmation.   
-<sup>2</sup>L’Association vise aussi à re-instaurer le sens premier du mot “hacking”, à savoir le détournement d’un objet ou programme de sa fonction première, ainsi que le création de programmes inventifs, et non pas l’intrusion dans des systèmes informatiques.   
-<sup>3</sup>L’Association s’engage par ailleurs à ne pas inciter ou encourager des pratiques contraires à l’éthique ou à la loi.   
+<sup>1</sup>L’Association vise à promouvoir la culture du “hacking”, notamment en organisant des ateliers, conférences et marathons de programmation.
+  
+<sup>2</sup>L’Association vise aussi à re-instaurer le sens premier du mot “hacking”, à savoir le détournement d’un objet ou programme de sa fonction première, ainsi que le création de programmes inventifs, et non pas l’intrusion dans des systèmes informatiques.
+  
+<sup>3</sup>L’Association s’engage par ailleurs à ne pas inciter ou encourager des pratiques contraires à l’éthique ou à la loi.
+  
 <sup>4</sup>L’Association n’a pas de but économique. Elle n’est liée à aucune autre association, à aucun mouvement politique, ni à aucune confession religieuse.
 
 #### Art. 5 Relation avec l’EPFL
@@ -110,23 +113,12 @@ n) dissolution de l'Association conformément au quorum et à la majorité de l'
 #### Art. 16 Composition et organisation
 <sup>1</sup>Le comité de direction est l’organe exécutif de l’Association. Il est composé
 de 3 membres. Le comité de direction est dirigé par un président
-(président de l'Association). Il comprend en outre un vice-président et un
-trésorier. Au moins la moitié des membres du comité de direction doit avoir
-été membre de l'Association lors de l'année d’activité précédente. De plus,
-le président doit obligatoirement être un étudiant de l'EPFL.  
-<sup>2</sup>Les membres du comité de direction sont élus pour un an par l’assemblée
-générale et sont rééligibles.  
+(président de l'Association). Il comprend en outre un vice-président et un trésorier. Au moins la moitié des membres du comité de direction doit avoir été membre de l'Association lors de l'année d’activité précédente, ainsi qu’être étudiant à l’UNIL ou l’EPFL. De plus, le président doit obligatoirement être un étudiant de l'EPFL.  
+<sup>2</sup>Les membres du comité de direction sont élus pour un an par l’assemblée générale et sont rééligibles.  
 <sup>3</sup>Le comité de direction s'organise lui-même.  
-<sup>4</sup>Si, faute de candidatures, moins de 3 membres sont élus, les membres dont
-le poste n’a pas été pourvu restent en fonction à titre intérimaire jusqu’à la
-prochaine assemblée générale et le comité de direction organise de
-nouvelles élections pour les postes vacants.  
-<sup>5</sup>Si la fonction de l’un des membres du comité de direction devient vacante
-en cours d’exercice, le président est autorisé à désigner un autre membre
-du comité de direction qui occupera la fonction en question à titre
-intérimaire jusqu'à la prochaine assemblée générale.  
-<sup>6</sup>Tout membre du comité de direction qui perd la qualité de membre de
-l’Association perd simultanément sa fonction au sein du comité.
+<sup>4</sup>Si, faute de candidatures, moins de 3 membres sont élus, les membres dont le poste n’a pas été pourvu restent en fonction à titre intérimaire jusqu’à la prochaine assemblée générale et le comité de direction organise de nouvelles élections pour les postes vacants.  
+<sup>5</sup>Si la fonction de l’un des membres du comité de direction devient vacante en cours d’exercice, le président est autorisé à désigner un autre membre du comité de direction qui occupera la fonction en question à titre intérimaire jusqu'à la prochaine assemblée générale.  
+<sup>6</sup>Tout membre du comité de direction qui perd la qualité de membre de l’Association perd simultanément sa fonction au sein du comité.
 
 #### Art. 17 Compétences
 <sup>1</sup>Les compétences du comité de direction sont notamment les suivantes:
