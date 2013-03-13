@@ -26,7 +26,7 @@ for tutorials, and larger ones for hackathons). On the other hand, we *do not* r
 room for the association, as our archival requirements are minimal, and we prefer to rotate our
 events among many different buildings (so to reach more people).
 Last but not the least, although _Hackers at EPFL_ is already endorsed by many faculty members, we
-expect our acknowledgemnt to drive more interest from professors. We foresee a certain number of
+expect our acknowledgment to drive more interest from professors. We foresee a certain number of
 members to be attracted directly by the endorsement of professors during their lectures.
 
 
@@ -38,9 +38,9 @@ adopts the same passion for excellence, and tries to distribute it among as many
 possible. _Hackers at EPFL_ indeed becomes the meeting point for like-minded hackers, who before
 could have met only by chance.
 
-Top U.S. universities greatly benifited from nurturing the hacking culture on campus. Starting
+Top U.S. universities greatly benefited from nurturing the hacking culture on campus. Starting
 from MIT (which spurred the movement), and ranging from Stanford to Berkeley, and many others,
-associations of hackers have proved to be invaluable--they were the seed of the opensource
+associations of hackers have proved to be invaluable--they were the seed of the open-source
 movement, the nest of many incubating startups (later become incredibly successful), the hive
 where students honed their coding skills to the max, etc.
 

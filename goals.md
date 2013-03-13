@@ -1,8 +1,14 @@
 ## Mission statement
 
 _Hackers at EPFL_ aims to promote the hacking culture and to foster innovation at EPFL,
-one amazing event at a time.
-*Make new friends. Make stuff. Make the difference.*
+one amazing event at a time: *Make new friends. Make stuff. Make the difference.*
+
+At the same time, we want to reestablish the primary meaning of the word “hacker” in the EPFL
+campus. Too often (especially because of the media) hackers are depicted as criminals who disrupt
+information systems. Hackers, instead, represent the excellence in software development, hardware
+tinkering, social right awareness in the digital era, and so forth. EPFL is full of such people,
+waiting to be united under the same flag. Hackers at EPFL will provide them a “virtual” meeting
+point, while driving their actions towards benefiting the EPFL community as a whole.
 
 
 ## Goals
@@ -16,11 +22,11 @@ _Hackers at EPFL_ wants to establish two kind of events in EPFL:
   Occasionally, there is a hardware component as well. 
   * _Hackers at EPFL_ plans to bring 2 hackathons per semester in the EPFL campus, taking care
   of logistics, food, contacts with interested companies, etc. The events will be open also to
-  external people, in order to enable cross-pollination, and to strenghten the connections between
-  EPFL students and the fertile developer community in Vaud.
+  external people, in order to enable cross-pollination, and to strengthen the connections between
+  EPFL students and the fertile developer community in Vaud, Switzerland.
 
 * Tutorials
-  * New programming languages, framework, and technologies are born everys single day. It is very
+  * New programming languages, framework, and technologies are born every single day. It is very
   challenging to keep abreast, unless being part of a thrilling community of people who are willing
   to meet periodically and teach each other about the latest and greatest.
   * _Hackers at EPFL_ provides an environment where to propose (and attend) periodic tutorials.
