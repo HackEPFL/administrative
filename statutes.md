@@ -156,7 +156,7 @@ k. décider de l’admission et de l’exclusion de membres ;<br><br>
 
 <sup>1</sup> Le comité de direction prend ses décisions à la majorité des membres présents. En cas d’égalité, la voix du président est prépondérante. Si aucun membre ne s’y oppose, les décisions peuvent également être prises par voie de circulation.<br><br>
 
-<sup>2</sup> le comité de direction consigne ses décisions dans un procès-verbal signé par son rédacteur. Il peut être consulté par les membres de l'association.<br><br>
+<sup>2</sup> Le comité de direction consigne ses décisions dans un procès-verbal signé par son rédacteur. Il peut être consulté par les membres de l'association.<br><br>
 
 #### Art. 16 Comités d'organisation
 
