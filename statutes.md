@@ -40,7 +40,7 @@ c) les professeurs ou collaborateurs de l’EPFL.  <br><br>
 <sup>2</sup>L’assemblée générale peut admettre, à titre exceptionnel, des membres qui ne remplissent pas les conditions d’admission de plein droit mais dont le profile présente un intérêt pour 
 l’association au regard de ses buts.<br><br>
 
-<sup>3</sup>Est encouragée à devenir membre, toute personne participant régulièrement aux activités de l'association ou qui représente l'EPFL lors de concours d’informatique.<br><br>
+<sup>3</sup>Est encouragée à devenir membre, toute personne participant régulièrement aux activités de l'association.
 
 #### Art. 7 Perte de la qualité de membre
 
@@ -82,17 +82,16 @@ c) l’organe de contrôle des comptes.<br><br>
 <sup>2</sup> L’assemblée générale a notamment les compétences suivantes :
 a. modifier les statuts ;
 b. élire les membres du comité de direction et de l’organe de contrôle des comptes;
-c. élire des coaches pour l’entrainement et la participation des membres à des concours ;
-d. approuver le rapport d’activité et de gestion annuel ;
-e. approuver les comptes annuels ;
-f. approuver le programme d’activité pour l’année suivante ;
-g. approuver le budget pour l’année suivante ;
-h. fixer le montant jusqu’à concurrence duquel le comité de direction peut engager l’association sans en référer à l’assemblée générale ;
-i. donner décharge aux organes ; 
-j. créer et révoquer des comités d’organisation ;
-k. adopter des règlements internes ;
-l. décider de l’exclusion de membre sur recours ; 
-m. prononcer la dissolution de l’association.<br><br>
+c. approuver le rapport d’activité et de gestion annuel ;
+d. approuver les comptes annuels ;
+d. approuver le programme d’activité pour l’année suivante ;
+e. approuver le budget pour l’année suivante ;
+f. fixer le montant jusqu’à concurrence duquel le comité de direction peut engager l’association sans en référer à l’assemblée générale ;
+g. donner décharge aux organes ; 
+h. créer et révoquer des comités d’organisation ;
+i. adopter des règlements internes ;
+j. décider de l’exclusion de membre sur recours ; 
+k. prononcer la dissolution de l’association.<br><br>
 
 <sup>3</sup> L’assemblée générale se prononce également sur les autres points préalablement portés à l’ordre du jour.  
 
