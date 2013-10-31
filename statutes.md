@@ -184,7 +184,7 @@ Le comité de direction a sous ses ordres les éventuels comités d’organisati
 
 La modification des présents statuts nécessite la majorité absolue des membres présents ou représentés à l’assemblée générale.<br><br>
 
-#### Art. 29 Dissolution
+#### Art. 20 Dissolution
 
 La dissolution de l’association peut être prononcée par l’assemblée générale à la majorité des deux tiers des membres présents ou représentés à l’assemblée, pour autant que plus de la moitié des membres soient présents ou représentés. Si ce quorum n’a été atteint, une seconde assemblée générale extraordinaire, convoquée dans un délai de quatre semaines à compter de la date de la première assemblée, décide de la dissolution à la majorité des deux tiers des membres présents ou représentés à l’assemblée, quel que soit leur nombre.<br><br>
 
