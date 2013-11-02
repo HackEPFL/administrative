@@ -57,6 +57,8 @@ Le membre concerné est entendu sur les motifs de son exclusion. La décision d�
 
 ## III. Ressources
 
+#### Art. 8 Ressources
+
 <sup>1</sup> Les ressources de l’association sont constituées:
 a) par les revenus et produits de sa fortune ;
 b) par des libéralités, notamment du sponsoring ;
@@ -160,13 +162,13 @@ k. décider de l’admission et de l’exclusion de membres ;<br><br>
 
 #### Art. 16 Comités d'organisation
 
-Le comité de direction a sous ses ordres les éventuels comités d’organisation. Il transmet à l’assemblée générale le rapports annuel de chaque comité d’organisation.<br><br>
+Le comité de direction a sous ses ordres les éventuels comités d’organisation. Il transmet à l’assemblée générale le rapport annuel de chaque comité d’organisation.<br><br>
 
 ### c) Organe de contrôle des comptes
 
 #### Art. 17 Composition et fonction
 
-<sup>1</sup> L’organe de contrôle des comptes vérifie, à la fin de chaque exercice annuel, le bilan et les comptes de l’association. Il soumet son rapport à l’assemblée générale. Il peut exiger en tout temps la production des livres et pieces comptables de l’association et verifier l’état de la caisse.<br><br>
+<sup>1</sup> L’organe de contrôle des comptes vérifie, à la fin de chaque exercice annuel, le bilan et les comptes de l’association. Il soumet son rapport à l’assemblée générale. Il peut exiger en tout temps la production des livres et pièces comptables de l’association et vérifier l’état de la caisse.<br><br>
 
 <sup>2</sup> L’organe de contrôle des comptes se compose de deux membres et d’un suppléant, tous trois membres de l’association. Ils sont élus pour un an par l’assemblée générale. Ils sont rééligibles.<br><br>
 
