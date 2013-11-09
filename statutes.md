@@ -202,7 +202,7 @@ La dissolution de l’association peut être prononcée par l’assemblée gén�
 
 <sup>1</sup> Les présents statuts sont publiés sur le site internet de l’association.<br><br>
 
-<sup>2</sup> Les présents statuts ont été adoptés par l’assemblée générale du [ ].
+<sup>2</sup> Les présents statuts ont été adoptés par l’assemblée générale du 8 Mars 2013.
 
 <br><br>
 
