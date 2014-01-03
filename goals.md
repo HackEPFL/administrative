@@ -26,7 +26,7 @@ technology. We plan to contribute back to the Lausanne area with our skilled ass
 
 ## Structure
 
-_Hackers at EPFL_ is an inclusive association, which embraces (and encourages) diversity. The hierarchy is almost completely flat: except a few roles (i.e., President, Vice-President, treasure) which are needed to officially run the association, each single member will always be referred to as "hacker" (included the 3 people covering the above mentioned roles).
+_Hackers at EPFL_ is an inclusive association, which embraces (and encourages) diversity. The hierarchy is almost completely flat: except a few roles (i.e., President, Vice-President, Treasurer) which are needed to officially run the association, each single member will always be referred to as "hacker" (included the 3 people covering the above mentioned roles).
 The official roles will be rotated yearly, and will be elected democratically by all the members.
 
 All the activities will be based on the do-ocracy concept. Namely, "If you want something done, do it, but remember to be excellent to each other when doing so." Such philosophy has been adopted for years by *Noisebridge*, one of most famous hackerspaces in the world. It proves to be successful when members are excellent, hence it represents our own way to strive for excellence in both technology and human relations among hackers.
